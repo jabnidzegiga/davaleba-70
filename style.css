@@ -1,5 +1,9 @@
 *{
     background-color: gray;
+    
+}
+.body{
+    margin: 0;
 }
 .div{
     width: 100%;
