@@ -1,9 +1,10 @@
 *{
-    background-color: gray;
+    box-sizing: border-box;
     
 }
 .body{
     margin: 0;
+    background-color: gray;
 }
 .div{
     width: 100%;
